@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rishikesh Kashyap Ojha 👋
 
-<!--
-**Rishikeshcode07/Rishikeshcode07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Analyst passionate about turning data into actionable insights.  
+🐍 Skilled in Python, pandas, NumPy, Matplotlib, scikit-learn, and Jupyter Notebook.  
+📊 Focused on data analysis, visualization, and applying machine learning techniques to solve real-world problems.
 
-Here are some ideas to get you started:
+## About Me 💡
+- 🔄 Transitioned from software development to data analytics to pursue my passion for data-driven decision making.  
+- 📚 Eager to learn and grow through hands-on projects and continuous skill development.  
+- 🔍 Currently exploring datasets through exploratory data analysis, building predictive models, and creating compelling visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools 🛠️
+- **Languages:** Python 🐍  
+- **Libraries:** pandas 🐼, NumPy 🔢, Matplotlib 📈, scikit-learn 🤖  
+- **Tools:** Jupyter Notebook 📓
+
+## Projects 📂
+- Check out my repositories to see projects on data cleaning, analysis, visualization, and machine learning.
+
+## Let's Connect 🤝
+- Feel free to reach out via email at rishicode07@gmail.com 📧.
+
+Thanks for visiting my profile! 😊
+```
